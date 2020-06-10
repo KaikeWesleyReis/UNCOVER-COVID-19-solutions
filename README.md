@@ -5,7 +5,7 @@
 
 **Content**: This repository presents some solutions provided to two studies tasks. For more info go to **Tasks submitted** topic.
 
- Summarizing, this repository contains some submissions developed by me for this COVID-19 Challenge.
+ Summarizing, this repository contains some submissions developed by me for this COVID-19 Challenge using SEIR models, where one of them turns out to be **winner**!
 
 ![image](https://user-images.githubusercontent.com/32513366/84303710-cf6b1180-ab2d-11ea-9727-be390dadde75.png)
 
