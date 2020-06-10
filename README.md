@@ -3,7 +3,7 @@
 
 **Selection process**: The challenge works with 3 deadlines: in each one of them, the best solution would be evaluate against other propose solutions.
 
-**Content**: This notebook presents some solutions provided to two studies tasks. For more info go to [Tasks submitted](##tasks-sumitted)
+**Content**: This notebook presents some solutions provided to two studies tasks. For more info go to [Tasks submitted](##tasks-submitted)
 
  Summarizing, this repository contains some submissions developed by me for this COVID-19 Challenge.
 
@@ -14,7 +14,7 @@
 ## Tasks submitted
 
 :heavy_check_mark: **Task 1** - Which populations have contracted COVID-19 and require ventilators?
-  - First Deadline :heavy_minus_sign:
+  - First Deadline :heavy_multiplication_x:
   - Second Deadline :heavy_check_mark:
   - Third Deadline :heavy_check_mark:
 
