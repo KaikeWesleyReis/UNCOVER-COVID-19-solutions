@@ -3,7 +3,7 @@
 
 **Selection process**: The challenge works with 3 deadlines: in each one of them, the best solution would be evaluate against other propose solutions.
 
-**Content**: This notebook presents some solutions provided to two studies tasks. For more info go to [Tasks submitted](##tasks-submitted)
+**Content**: This repository presents some solutions provided to two studies tasks. For more info go to **Tasks submitted** topic.
 
  Summarizing, this repository contains some submissions developed by me for this COVID-19 Challenge.
 
