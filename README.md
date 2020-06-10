@@ -1,4 +1,4 @@
-# UNCOVER COVID-19 Challenge
+# UNCOVER COVID-19 Challenge Submissions
 **Challenge Description**: *The Roche Data Science Coalition (RDSC)* requested the collaborative effort of the AI community to fight COVID-19. This challenge presented a curated collection of datasets from 20 global sources and asks you to model solutions to key questions that were developed and evaluated by a global frontline of healthcare providers, hospitals, suppliers, and policy makers.
 
 **Selection process**: The challenge works with 3 deadlines: in each one of them, the best solution would be evaluate against other propose solutions.
