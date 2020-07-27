@@ -13,12 +13,12 @@
 
 ## Tasks submitted
 
-:heavy_check_mark: **Task 1** - Which populations have contracted COVID-19 and require ventilators?
+:heavy_check_mark: **Task 1** - [Which populations have contracted COVID-19 and require ventilators?](https://github.com/KaikeWesleyReis/UNCOVER-COVID-19-challenge-solutions/blob/master/TASK-1-a-case-study-analysis-ventilators-distributions.ipynb)
   - First Deadline :heavy_multiplication_x:
   - Second Deadline :heavy_check_mark:
   - Third Deadline :heavy_check_mark:
 
-:x: **Task 2** - Which populations have contracted COVID-19 who require the ICU?
+:x: **Task 2** - [Which populations have contracted COVID-19 who require the ICU?](https://github.com/KaikeWesleyReis/UNCOVER-COVID-19-challenge-solutions/blob/master/TASK-2-a-seir-case-study-analysis-for-icu-usage.ipynb)
   - First Deadline :heavy_check_mark:
   - Second Deadline :heavy_check_mark:
   - Third Deadline :heavy_multiplication_x:
